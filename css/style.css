@@ -82,11 +82,11 @@ footer{
 }
 
 .flex-item a#my-special-id-3{
-    background-image: url(../assets/images/custom-image-name.jpeg); 
+    background-image: url('https://img.newspapers.com/img/img?institutionId=0&user=13497765&id=276215948&clippingId=118395981&width=557&height=446&crop=3603_1385_1153_941&rotation=0'); 
 }
 
 .flex-item a#my-special-id-4{
-    background-image: url(../assets/images/custom-image-name.jpeg); 
+    background-image: url('https://img.newspapers.com/img/img?institutionId=0&user=13497765&id=276215948&clippingId=118395895&width=557&height=313&crop=128_169_1812_1039&rotation=0'); 
 }
 
 .flex-item a:hover{
